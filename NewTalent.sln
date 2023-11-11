@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTalent", "NewTalent\NewTalent.csproj", "{1B6FE2B3-7F6A-4F0B-9850-0F3A12151446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteNewTalent", "TesteNewTalent\TesteNewTalent.csproj", "{52840FFA-D351-40F5-B784-2F6C0970A103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6FE2B3-7F6A-4F0B-9850-0F3A12151446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6FE2B3-7F6A-4F0B-9850-0F3A12151446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6FE2B3-7F6A-4F0B-9850-0F3A12151446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6FE2B3-7F6A-4F0B-9850-0F3A12151446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52840FFA-D351-40F5-B784-2F6C0970A103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52840FFA-D351-40F5-B784-2F6C0970A103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52840FFA-D351-40F5-B784-2F6C0970A103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52840FFA-D351-40F5-B784-2F6C0970A103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA35D8BD-6AB2-4F61-A520-3E98C9B3359F}
+	EndGlobalSection
+EndGlobal
